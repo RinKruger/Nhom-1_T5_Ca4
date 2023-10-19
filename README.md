@@ -8,7 +8,8 @@ Ngoài ra người dùng có thể xem và nắm được doanh thu của phòng
 Bên cạnh đó, hệ thống cũng cần phải phân quyền nhằm đảm bảo vai trò phân biệt giữa người dùng, bác sĩ và tiếp tân và cũng cần quản lí các danh sách khách hàng, danh sách đơn khám theo cách tổng quát hoặc chi tiết.Với ""Sức Khỏe Tại Đầu Ngón Tay,"" chúng tôi cam kết mang lại sự thuận tiện và hiệu quả trong việc quản lý và sử dụng dịch vụ chăm sóc sức khỏe, đồng thời cung cấp trải nghiệm tốt nhất cho cả bác sĩ và bệnh nhân. Hãy cùng chúng tôi xây dựng tương lai với sức khỏe tốt hơn."											
 	
 Thành viên: Giang, Minh, Tùng, Công
-<img src="https://github.com/RinKruger/Nhom_QuanLiPhongKham_T5_Ca4/assets/144761684/5c0b3a1b-64bb-4173-978c-e1feeb1225bf" width="300" height="500">
+
+
 ![PhongKham](https://github.com/RinKruger/Nhom_QuanLiPhongKham_T5_Ca4/assets/147702326/16b8711c-9942-4420-a9dd-7c0d94dc7e1f)
 
 https://github.com/RinKruger/Nhom_QuanLiPhongKham_T5_Ca4/assets/144761684/5f6f572b-6fae-4529-9ad6-c192ad28e1fa
