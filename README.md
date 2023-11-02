@@ -1,4 +1,4 @@
-# Nhom_QuanLiPhongKham_T5_Ca4
+# Nhom1_QuanLiPhongKham_T5_Ca4
 
 "Trong thời đại số hóa ngày nay, việc quản lý và trải nghiệm chăm sóc sức khỏe trở nên dễ dàng hơn bao giờ hết, và hệ thống quản lý phòng khám tư nhân đã xuất hiện để đáp ứng các nhu cầu đa dạng của bác sĩ, nhân viên y tế và cả khách hàng.Hệ thống phòng khám tư nhân “Healthy Care” là 1 website cho phép người dùng có thể truy cập để xem các thông tin mà họ đã tra cứu liên quan đến các vấn đề về sức khỏe.
 
